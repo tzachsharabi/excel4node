@@ -1,5 +1,5 @@
 {
-  "name": "excel4node",
+  "name": "@tzpro/excel4node",
   "version": "1.8.2",
   "description": "Library to create Formatted Excel Files.",
   "engines": {
@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "deepmerge": "^4.2.2",
-    "image-size": "^1.0.2",
+    "image-size": "1.0.2",
     "jszip": "^3.10.0",
     "lodash.get": "^4.4.2",
     "lodash.isequal": "^4.5.0",
